@@ -1,3 +1,3 @@
 # git_test
-2352st github repo yay!
+My 1st Github repo yay!
 Hello Odin!
